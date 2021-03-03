@@ -1,0 +1,9 @@
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\netcoreapp3.1\HR.ReadModel.Context.deps.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\netcoreapp3.1\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\netcoreapp3.1\HR.ReadModel.Context.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.csprojAssemblyReference.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.AssemblyInfoInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.AssemblyInfo.cs
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\netcoreapp3.1\HR.ReadModel.Context.pdb

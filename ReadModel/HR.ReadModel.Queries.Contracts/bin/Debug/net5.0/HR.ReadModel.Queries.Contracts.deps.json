@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HR.ReadModel.Queries.Contracts/1.0.0": {
+        "runtime": {
+          "HR.ReadModel.Queries.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.ReadModel.Queries.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

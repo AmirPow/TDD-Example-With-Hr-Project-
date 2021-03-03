@@ -1,0 +1,45 @@
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.deps.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\ref\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csprojAssemblyReference.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfoInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfo.cs
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\ref\HR.ReadModel.Context.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.dev.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.genruntimeconfig.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.deps.json
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.json
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.dev.json
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\ref\HR.ReadModel.Context.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csprojAssemblyReference.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfo.cs
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\ref\HR.ReadModel.Context.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.genruntimeconfig.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.deps.json
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.json
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.runtimeconfig.dev.json
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\ref\HR.ReadModel.Context.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\bin\Debug\net5.0\HR.ReadModel.Context.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\ref\HR.ReadModel.Context.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Context\obj\Debug\net5.0\HR.ReadModel.Context.genruntimeconfig.cache

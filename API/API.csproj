@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Framework\HR.Framework.AssemblyHelper\HR.Framework.AssemblyHelper.csproj" />
+    <ProjectReference Include="..\WriteModel\EmployeeContext\ApplicationContext\HR.EmployeeContext.ApplicationService.Contracts\HR.EmployeeContext.ApplicationService.Contracts.csproj" />
+    <ProjectReference Include="..\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\HR.EmployeeContext.Facade.Contracts.csproj" />
+    <ProjectReference Include="..\WriteModel\EmployeeContext\HR.EmployeeContext.Configuration\HR.EmployeeContext.Configuration.csproj" />
+    <ProjectReference Include="..\WriteModel\HR.Persistence\HR.Persistence.csproj" />
+    <ProjectReference Include="..\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade.Contracts\HR.ShiftContext.Facade.Contracts.csproj" />
+    <ProjectReference Include="..\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration.csproj" />
+  </ItemGroup>
+
+
+</Project>

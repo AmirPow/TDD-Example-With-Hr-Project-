@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.DependencyInjection\HR.Framework.DependencyInjection.csproj" />
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Domain\HR.Framework.Domain.csproj" />
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Facade\HR.Framework.Facade.csproj" />
+    <ProjectReference Include="..\..\ApplicationService\HR.ShiftContext.ApplicationService.Contracts\HR.ShiftContext.ApplicationService.Contracts.csproj" />
+    <ProjectReference Include="..\..\ApplicationService\HR.ShiftContext.ApplicationService\HR.ShiftContext.ApplicationService.csproj" />
+    <ProjectReference Include="..\..\Domian\HR.ShiftContext.Domain.Services\HR.ShiftContext.Domain.Services.csproj" />
+    <ProjectReference Include="..\..\Domian\HR.ShiftContext.Domain\HR.ShiftContext.Domain.csproj" />
+    <ProjectReference Include="..\..\Facade\HR.ShiftContext.Facade.Contracts\HR.ShiftContext.Facade.Contracts.csproj" />
+    <ProjectReference Include="..\..\Facade\HR.ShiftContext.Facade\HR.ShiftContext.Facade.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\HR.ShiftContext.Infrastructure.Persistence\HR.ShiftContext.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

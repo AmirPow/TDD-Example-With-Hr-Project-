@@ -1,0 +1,145 @@
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.deps.json
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csprojAssemblyReference.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.deps.json
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CopyComplete
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.deps.json
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.deps.json
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\ref\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\obj\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb

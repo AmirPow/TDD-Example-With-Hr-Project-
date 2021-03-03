@@ -1,0 +1,59 @@
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\ref\HR.Framework.Application.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CopyComplete
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\ref\HR.Framework.Application.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\ref\HR.Framework.Application.dll
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CopyComplete
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\ref\HR.Framework.Application.dll
+E:\HR 99-09-17\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\ref\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\ref\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\ref\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.csproj.CopyComplete
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\ref\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Application\obj\Debug\net5.0\HR.Framework.Application.pdb

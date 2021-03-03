@@ -1,0 +1,69 @@
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.deps.json
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.Resource.resources
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.GenerateResource.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfoInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfo.cs
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.CoreCompileInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.deps.json
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.Resource.resources
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.GenerateResource.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.deps.json
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.Resource.resources
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.GenerateResource.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.Resource.resources
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.GenerateResource.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.deps.json
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.Resource.resources
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.GenerateResource.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\ref\HR.EmployeeContext.Resource.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Resource\HR.EmployeeContext.Resource\obj\Debug\net5.0\HR.EmployeeContext.Resource.pdb

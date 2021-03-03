@@ -1,0 +1,92 @@
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.deps.json
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CopyComplete
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.deps.json
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.deps.json
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\ref\HR.ShiftContext.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Facade\HR.ShiftContext.Facade\obj\Debug\net5.0\HR.ShiftContext.Facade.pdb

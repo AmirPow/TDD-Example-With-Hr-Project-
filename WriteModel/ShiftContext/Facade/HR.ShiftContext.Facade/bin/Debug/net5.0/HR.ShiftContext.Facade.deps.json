@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HR.ShiftContext.Facade/1.0.0": {
+        "dependencies": {
+          "HR.Framework.Application": "1.0.0",
+          "HR.Framework.Core": "1.0.0",
+          "HR.Framework.Facade": "1.0.0",
+          "HR.ShiftContext.ApplicationService.Contracts": "1.0.0",
+          "HR.ShiftContext.Facade.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "HR.ShiftContext.Facade.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.51904"
+          }
+        }
+      },
+      "HR.Framework.Application/1.0.0": {
+        "dependencies": {
+          "HR.Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "HR.Framework.Application.dll": {}
+        }
+      },
+      "HR.Framework.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "runtime": {
+          "HR.Framework.Core.dll": {}
+        }
+      },
+      "HR.Framework.Facade/1.0.0": {
+        "dependencies": {
+          "HR.Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "HR.Framework.Facade.dll": {}
+        }
+      },
+      "HR.ShiftContext.ApplicationService.Contracts/1.0.0": {
+        "dependencies": {
+          "HR.Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "HR.ShiftContext.ApplicationService.Contracts.dll": {}
+        }
+      },
+      "HR.ShiftContext.Facade.Contracts/1.0.0": {
+        "dependencies": {
+          "HR.ShiftContext.ApplicationService.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "HR.ShiftContext.Facade.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.ShiftContext.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+    },
+    "HR.Framework.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR.Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR.Framework.Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR.ShiftContext.ApplicationService.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HR.ShiftContext.Facade.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

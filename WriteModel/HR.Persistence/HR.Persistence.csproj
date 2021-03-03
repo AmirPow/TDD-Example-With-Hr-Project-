@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\HR.Framework.AssemblyHelper\HR.Framework.AssemblyHelper.csproj" />
+    <ProjectReference Include="..\..\Framework\HR.Framework.Core\HR.Framework.Core.csproj" />
+    <ProjectReference Include="..\..\Framework\HR.Framework.Persistence\HR.Framework.Persistence.csproj" />
+    <ProjectReference Include="..\EmployeeContext\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\HR.EmployeeContext.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\ShiftContext\Infrastructure\HR.ShiftContext.Infrastructure.Persistence\HR.ShiftContext.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,60 @@
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\ref\HR.Framework.Facade.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CopyComplete
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\ref\HR.Framework.Facade.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\ref\HR.Framework.Facade.dll
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CopyComplete
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.dll
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\ref\HR.Framework.Facade.dll
+E:\HR 99-09-17\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\ref\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\ref\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\ref\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.csproj.CopyComplete
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\ref\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Facade\obj\Debug\net5.0\HR.Framework.Facade.pdb

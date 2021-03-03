@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Core\HR.Framework.Core.csproj" />
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Persistence\HR.Framework.Persistence.csproj" />
+    <ProjectReference Include="..\..\Domian\HR.ShiftContext.Domain\HR.ShiftContext.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

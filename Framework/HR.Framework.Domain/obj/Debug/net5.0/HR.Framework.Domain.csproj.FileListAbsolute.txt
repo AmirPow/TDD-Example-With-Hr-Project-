@@ -1,0 +1,47 @@
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\ref\HR.Framework.Domain.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csprojAssemblyReference.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\ref\HR.Framework.Domain.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\Framework\HR.Framework.Domain\bin\Debug\net5.0\ref\HR.Framework.Domain.dll
+E:\HR 99-09-17\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\ref\HR.Framework.Domain.dll
+E:\HR 99-09-17\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\ref\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\ref\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\bin\Debug\net5.0\ref\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\ref\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Domain\obj\Debug\net5.0\HR.Framework.Domain.pdb

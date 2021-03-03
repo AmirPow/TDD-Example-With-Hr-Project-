@@ -1,0 +1,59 @@
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CopyComplete
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CopyComplete
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.csproj.CopyComplete
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\ref\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.AssemblyHelper\obj\Debug\net5.0\HR.Framework.AssemblyHelper.pdb

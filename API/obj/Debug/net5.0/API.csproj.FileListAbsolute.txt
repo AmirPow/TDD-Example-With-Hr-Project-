@@ -1,0 +1,345 @@
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Test_Projects\HR\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Test_Projects\HR\API\bin\Debug\net5.0\appsettings.json
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.exe
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.deps.json
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\ref\API.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\API.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Humanizer.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Persistence.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Persistence.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+D:\Test_Projects\HR\API\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Test_Projects\HR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Test_Projects\HR\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.dll
+D:\Test_Projects\HR\API\obj\Debug\net5.0\ref\API.dll
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.pdb
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.dll
+E:\HR 99-09-17\API\obj\Debug\net5.0\ref\API.dll
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\appsettings.Development.json
+E:\HR 99-09-17\API\bin\Debug\net5.0\appsettings.json
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.exe
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.deps.json
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.runtimeconfig.json
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\ref\API.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\API.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\Humanizer.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Facade.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Persistence.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Persistence.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Persistence.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Application.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Facade.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\API\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+E:\HR 99-09-17\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.csproj.CopyComplete
+E:\HR 99-09-17\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Test_Projects\HR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Test_Projects\HR\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.dll
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\appsettings.json
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.exe
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.deps.json
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\API.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Persistence.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Configuration.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Persistence.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Domain.Services.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Facade.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Infrastructure.Persistence.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.EmployeeContext.Resource.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Facade.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+C:\Users\990224\Desktop\HR\API\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\API\obj\Debug\net5.0\API.genruntimeconfig.cache

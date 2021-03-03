@@ -1,0 +1,56 @@
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.deps.json
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.ExceptionResource.resources
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.GenerateResource.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.deps.json
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.ExceptionResource.resources
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.GenerateResource.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.ExceptionResource.resources
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.GenerateResource.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.deps.json
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.ExceptionResource.resources
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.GenerateResource.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\ref\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Resources\obj\Debug\net5.0\HR.ShiftContext.Resources.pdb

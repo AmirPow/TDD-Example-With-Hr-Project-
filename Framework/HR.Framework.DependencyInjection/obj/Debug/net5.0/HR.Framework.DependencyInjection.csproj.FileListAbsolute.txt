@@ -1,0 +1,76 @@
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csprojAssemblyReference.cache
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CopyComplete
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.pdb
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CopyComplete
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.csproj.CopyComplete
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\ref\HR.Framework.DependencyInjection.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.DependencyInjection\obj\Debug\net5.0\HR.Framework.DependencyInjection.pdb

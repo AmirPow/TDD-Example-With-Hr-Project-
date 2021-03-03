@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Employees\Mapping\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Core\HR.Framework.Core.csproj" />
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Persistence\HR.Framework.Persistence.csproj" />
+    <ProjectReference Include="..\..\..\ShiftContext\Domian\HR.ShiftContext.Domain\HR.ShiftContext.Domain.csproj" />
+    <ProjectReference Include="..\..\Domain\HR.EmployeeContext.Contracts\HR.EmployeeContext.Domain.Contracts.csproj" />
+    <ProjectReference Include="..\..\Domain\HR.EmployeeContext.Domain\HR.EmployeeContext.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

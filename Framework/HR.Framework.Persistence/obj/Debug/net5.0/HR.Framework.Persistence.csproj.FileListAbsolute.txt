@@ -1,0 +1,68 @@
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csprojAssemblyReference.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfo.cs
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.deps.json
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\ref\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CopyComplete
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\ref\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.deps.json
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\ref\HR.Framework.Persistence.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csprojAssemblyReference.cache
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfoInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfo.cs
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CopyComplete
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\ref\HR.Framework.Persistence.dll
+E:\HR 99-09-17\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.deps.json
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\ref\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\ref\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.deps.json
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\ref\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.csproj.CopyComplete
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\ref\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\Framework\HR.Framework.Persistence\obj\Debug\net5.0\HR.Framework.Persistence.pdb

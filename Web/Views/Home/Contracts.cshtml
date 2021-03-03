@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-controller="Home" asp-action="AddContracts">
+    <div class="text-center">
+        <h1 class="display-4 text-primary">Welcome TO AMD Team</h1>
+        <p>Human Resource SubDomain System</p>
+        <hr />
+        <table>
+            <tr>
+                <td><label>Employee ID : </label></td>
+                <td><input type="text" id="EmployeeId" name="EmployeeId" /></td>
+            </tr>
+
+            <tr>
+                <td><label>Start Date : </label></td>
+                <td><input type="text" id="StartDate" name="StartDate" /></td>
+            </tr>
+
+            <tr>
+                <td><label> End Date : </label></td>
+                <td><input type="text" id="EndDate" name="EndDate" /></td>
+            </tr>
+        </table>
+
+        <input type="submit" class="btn btn-success"/>
+    </div>
+
+</form>

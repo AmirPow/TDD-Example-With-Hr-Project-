@@ -1,0 +1,813 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\HR.Persistence\\HR.Persistence.csproj": {}
+  },
+  "projects": {
+    "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\HR.Framework.AssemblyHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\HR.Framework.AssemblyHelper.csproj",
+        "projectName": "HR.Framework.AssemblyHelper",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\HR.Framework.AssemblyHelper.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj",
+        "projectName": "HR.Framework.Core",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj",
+        "projectName": "HR.Framework.Domain",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj",
+        "projectName": "HR.Framework.Persistence",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj",
+        "projectName": "HR.EmployeeContext.Domain.Contracts",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\HR.EmployeeContext.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\HR.EmployeeContext.Domain.csproj",
+        "projectName": "HR.EmployeeContext.Domain",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\HR.EmployeeContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\HR.EmployeeContext.Resource.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\HR.EmployeeContext.Resource.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\HR.EmployeeContext.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\HR.EmployeeContext.Infrastructure.Persistence.csproj",
+        "projectName": "HR.EmployeeContext.Infrastructure.Persistence",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\HR.EmployeeContext.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Contracts\\HR.EmployeeContext.Domain.Contracts.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\HR.EmployeeContext.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Domain\\HR.EmployeeContext.Domain\\HR.EmployeeContext.Domain.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\HR.EmployeeContext.Resource.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\HR.EmployeeContext.Resource.csproj",
+        "projectName": "HR.EmployeeContext.Resource",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\HR.EmployeeContext.Resource.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Resource\\HR.EmployeeContext.Resource\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\HR.Persistence\\HR.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\HR.Persistence\\HR.Persistence.csproj",
+        "projectName": "HR.Persistence",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\HR.Persistence\\HR.Persistence.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\HR.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\HR.Framework.AssemblyHelper.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.AssemblyHelper\\HR.Framework.AssemblyHelper.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\HR.EmployeeContext.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\EmployeeContext\\Infrastructure\\HR.EmployeeContext.Infrastructure.Persistence\\HR.EmployeeContext.Infrastructure.Persistence.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\HR.ShiftContext.Infrastructure.Persistence.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\HR.ShiftContext.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj",
+        "projectName": "HR.ShiftContext.Domain",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Domain\\HR.Framework.Domain.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\HR.ShiftContext.Resources.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\HR.ShiftContext.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\HR.ShiftContext.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\HR.ShiftContext.Resources.csproj",
+        "projectName": "HR.ShiftContext.Resources",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\HR.ShiftContext.Resources.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\HR.ShiftContext.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\HR.ShiftContext.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\HR.ShiftContext.Infrastructure.Persistence.csproj",
+        "projectName": "HR.ShiftContext.Infrastructure.Persistence",
+        "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\HR.ShiftContext.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\990224\\.nuget\\packages\\",
+        "outputPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Infrastructure\\HR.ShiftContext.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\990224\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Core\\HR.Framework.Core.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\Framework\\HR.Framework.Persistence\\HR.Framework.Persistence.csproj"
+              },
+              "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj": {
+                "projectPath": "D:\\Ahmadi\\Test Hr\\WriteModel\\ShiftContext\\Domian\\HR.ShiftContext.Domain\\HR.ShiftContext.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

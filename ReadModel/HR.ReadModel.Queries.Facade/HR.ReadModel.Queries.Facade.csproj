@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HR.ReadModel.Context\HR.ReadModel.Context.csproj" />
+    <ProjectReference Include="..\HR.ReadModel.Queries.Contracts\HR.ReadModel.Queries.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

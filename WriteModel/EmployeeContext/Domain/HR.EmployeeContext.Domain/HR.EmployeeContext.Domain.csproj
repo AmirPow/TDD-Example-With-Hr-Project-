@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Core\HR.Framework.Core.csproj" />
+    <ProjectReference Include="..\..\..\..\Framework\HR.Framework.Domain\HR.Framework.Domain.csproj" />
+    <ProjectReference Include="..\..\..\ShiftContext\Domian\HR.ShiftContext.Domain\HR.ShiftContext.Domain.csproj" />
+    <ProjectReference Include="..\..\Resource\HR.EmployeeContext.Resource\HR.EmployeeContext.Resource.csproj" />
+    <ProjectReference Include="..\HR.EmployeeContext.Contracts\HR.EmployeeContext.Domain.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

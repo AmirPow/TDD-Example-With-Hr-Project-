@@ -1,0 +1,49 @@
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.deps.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csprojAssemblyReference.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfoInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfo.cs
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CopyComplete
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.deps.json
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Context.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Context.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.pdb
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csprojAssemblyReference.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfo.cs
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CopyComplete
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+D:\Test_Projects\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.deps.json
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Context.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Context.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\bin\Debug\net5.0\HR.ReadModel.Queries.Contracts.pdb
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\ref\HR.ReadModel.Queries.Facade.dll
+C:\Users\990224\Desktop\HR\ReadModel\HR.ReadModel.Queries.Facade\obj\Debug\net5.0\HR.ReadModel.Queries.Facade.pdb

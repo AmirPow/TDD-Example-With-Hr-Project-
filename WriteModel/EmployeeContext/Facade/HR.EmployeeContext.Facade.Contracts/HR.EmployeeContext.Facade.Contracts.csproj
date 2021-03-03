@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ApplicationContext\HR.EmployeeContext.ApplicationService.Contracts\HR.EmployeeContext.ApplicationService.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

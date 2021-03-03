@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>HR.EmployeeContext.Domain.Contracts</AssemblyName>
+    <RootNamespace>HR.EmployeeContext.Domain.Contracts</RootNamespace>
+  </PropertyGroup>
+
+</Project>

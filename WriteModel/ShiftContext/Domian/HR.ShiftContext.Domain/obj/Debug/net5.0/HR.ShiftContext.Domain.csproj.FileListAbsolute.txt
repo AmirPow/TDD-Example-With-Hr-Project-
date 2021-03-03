@@ -1,0 +1,76 @@
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.deps.json
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CopyComplete
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.deps.json
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.deps.json
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\ref\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\Domian\HR.ShiftContext.Domain\obj\Debug\net5.0\HR.ShiftContext.Domain.pdb

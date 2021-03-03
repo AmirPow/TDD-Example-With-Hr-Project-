@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Framework\HR.Framework.DependencyInjection\HR.Framework.DependencyInjection.csproj" />
+    <ProjectReference Include="..\..\..\Framework\HR.Framework.Domain\HR.Framework.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Framework\HR.Framework.Facade\HR.Framework.Facade.csproj" />
+    <ProjectReference Include="..\ApplicationContext\HR.EmployeeContext.ApplicationService.Contracts\HR.EmployeeContext.ApplicationService.Contracts.csproj" />
+    <ProjectReference Include="..\ApplicationContext\HR.EmployeeContext.ApplicationService\HR.EmployeeContext.ApplicationService.csproj" />
+    <ProjectReference Include="..\Domain\HR.EmployeeContext.Domain.Services\HR.EmployeeContext.Domain.Services.csproj" />
+    <ProjectReference Include="..\Domain\HR.EmployeeContext.Domain\HR.EmployeeContext.Domain.csproj" />
+    <ProjectReference Include="..\Facade\HR.EmployeeContext.Facade.Contracts\HR.EmployeeContext.Facade.Contracts.csproj" />
+    <ProjectReference Include="..\Facade\HR.EmployeeContext.Facade\HR.EmployeeContext.Facade.csproj" />
+    <ProjectReference Include="..\Infrastructure\HR.EmployeeContext.Infrastructure.Persistence\HR.EmployeeContext.Infrastructure.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HR.Framework.Domain/1.0.0": {
+        "runtime": {
+          "HR.Framework.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.Framework.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

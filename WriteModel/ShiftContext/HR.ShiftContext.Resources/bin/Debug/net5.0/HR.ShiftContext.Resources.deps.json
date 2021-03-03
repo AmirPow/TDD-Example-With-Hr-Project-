@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HR.ShiftContext.Resources/1.0.0": {
+        "runtime": {
+          "HR.ShiftContext.Resources.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.ShiftContext.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

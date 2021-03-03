@@ -1,0 +1,9 @@
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\bin\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.deps.json
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\bin\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\bin\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.pdb
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.csprojAssemblyReference.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.AssemblyInfoInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.AssemblyInfo.cs
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.dll
+E:\HR 99-09-17\ReadModel\HR.ReadModel.Queries.Contracts\obj\Debug\netcoreapp3.1\HR.ReadModel.Queries.Contracts.pdb

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\Eterno-Mini_honariiiiiiii.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Framework\HR.Framework.AssemblyHelper\HR.Framework.AssemblyHelper.csproj" />
+    <ProjectReference Include="..\Framework\HR.Framework.Core\HR.Framework.Core.csproj" />
+    <ProjectReference Include="..\Framework\HR.Framework.DependencyInjection\HR.Framework.DependencyInjection.csproj" />
+    <ProjectReference Include="..\Framework\HR.Framework.Persistence\HR.Framework.Persistence.csproj" />
+    <ProjectReference Include="..\ReadModel\HR.ReadModel.Queries.Contracts\HR.ReadModel.Queries.Contracts.csproj" />
+    <ProjectReference Include="..\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\HR.EmployeeContext.Facade.Contracts.csproj" />
+    <ProjectReference Include="..\WriteModel\EmployeeContext\HR.EmployeeContext.Configuration\HR.EmployeeContext.Configuration.csproj" />
+    <ProjectReference Include="..\WriteModel\HR.Persistence\HR.Persistence.csproj" />
+    <ProjectReference Include="..\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration.csproj" />
+  </ItemGroup>
+
+</Project>

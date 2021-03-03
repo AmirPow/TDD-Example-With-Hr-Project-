@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HR.EmployeeContext.Domain.Contracts/1.0.0": {
+        "runtime": {
+          "HR.EmployeeContext.Domain.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HR.EmployeeContext.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

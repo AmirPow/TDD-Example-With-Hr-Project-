@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form method="post" asp-controller="Home" asp-action="AddShiftSegment">
+    <div class="text-center">
+        <h1 class="display-4 text-primary">Welcome TO AMD Team</h1>
+        <p>Human Resource SubDomain System</p>
+        <hr />
+        <table>
+            <tr>
+                <td><label>Shift ID : </label></td>
+                <td><input type="text" id="ShiftId" name="ShiftId" /></td>
+            </tr>
+            <tr>
+                <td><label>StartTime : </label></td>
+                <td><input type="text" id="StartTime" name="StartTime" /></td>
+            </tr>
+            <tr>
+                <td><label>EndTime : </label></td>
+                <td><input type="text" id="EndTime" name="EndTime" /></td>
+            </tr>
+        </table>
+       
+        <input type="submit" class="btn btn-success"/>
+    </div>
+
+</form>

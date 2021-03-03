@@ -1,0 +1,1264 @@
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.StaticWebAssets.xml
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\ref\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.pdb
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\HRBlazorApp.pdb
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.1.js.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\990224\Desktop\HR\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.1.js
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorComponent.input.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorComponent.output.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.TagHelpers.input.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.TagHelpers.output.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorCoreGenerate.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\0pyMHGkf.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\SUxPcb42.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\9ZcfRmrJ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\b6jvaPm0.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\1UKkMrJb.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\pPs67eFq.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\hFbiN5aM.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\NIEDKvNH.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\C4k6R0uF.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\RJYnVHEC.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rifIAOCN.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\1i1cq7df.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+pVw0hwN.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\pC+y+dPA.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\YfbXjDZa.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\FMzNGwX+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\t5+6wekU.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Nzibl+L4.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\yR6wuQ6S.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\K4Vtw09c.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\9zuVToa6.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\8wYSd3HJ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\xXTLpQyW.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\QNH2qKUr.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\V7QOz996.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\A+mBn3Lg.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Qr+tfmpG.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\M0xZHpkz.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+PQJGPFD.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Koh+EhIc.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\7rsTHo6L.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\9+gSW9bK.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\OvZ1lM2T.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\m6ipfA2Z.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\4fg0hrma.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\dnpl2xkA.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\QgPpEYOe.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\FsHRbHa0.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\W+59Euoe.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rDlgWB+S.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\BlMKM+Ub.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\6gMLb6LJ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\h5uJwL2N.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\HXjUcCK0.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ME7ciovZ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\2AjSSGiC.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\h1XjX65+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\yn+7NVci.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\sGfHEnup.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\u74R3uiY.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\a8DPiO52.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\chcyYF4K.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\pjDvp+dg.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\P4Y3X2Y3.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rjRRBN7k.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\DvaNOUih.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\hSwhcy3u.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\VkVHn8p+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\gTKMRiBD.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\LcQuB2cD.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\1Q65BkuG.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\sKLUKDyY.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\wrbGc4Va.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\s7vD2c+C.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\GbNL53VW.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\RteJ6BVc.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\QsOAQhHV.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\gW3LuSVK.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\kA+oDDpl.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\LXlBozf3.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\LGVP5X9v.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\syHsf+oP.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\WtA4i9a4.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\FRoTkzAY.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\odvCeRF7.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\kkuw+uXy.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\8zNTx7HX.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\hiDkagkl.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Tk8PToBs.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Ko9q6WOG.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5CYNr69A.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\V2m+mEdR.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\zmaxytTv.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\aXy0bGHJ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\u0Xt3RPO.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\xGuq0qAB.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\gwLdxdYU.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\NisW0yH8.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\6J6pJa4g.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\GPHbk7tY.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\uW4Ai3Lh.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\eol66bjP.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\0ydBOjce.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rApHMZbE.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\BhDpuvAo.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\PlUOHkyf.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Nhgp0A1u.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\OIdH6VE6.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\AOTuWqLe.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\RfBKH1Ig.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\xa5Bz6Y3.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\WwslHIw3.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\lNW2v6hZ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\R5D+mFZu.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\JVQCO58i.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\VxUTYGhr.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ZwYg97Cm.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\NVyf1Tpv.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\DvunObFz.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Hp5KwFQP.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Q3D07+1p.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\YwN+ex2C.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\KIxyiuwL.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+FQa+e+e.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\o+K51twd.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\TdwNZ4EK.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\mtNJqahZ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ocnpQsut.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5o69RQwx.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\L48UO+0i.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\4qGvy7jU.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\43bV7hM2.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ObBmZcIg.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\QtbxNvFw.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\tGSj9J7p.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Lfp9fjxr.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\nrZP97jo.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\9n+kjkbj.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\8poIGFGf.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\2M6h6z9n.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\lo+3GIDl.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+nujOPh0.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Lmf80HH6.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\PgNMbVSt.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\DIE90Alq.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\RW8uZgqv.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\u46tIqWK.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\R0+ivS49.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\2UfNyPx8.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\CZuhsZgF.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\wTxYeGQ0.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5c8+wXff.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\NApgj+sJ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ELtEfq9J.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ikDUCmO9.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\RIG0snQ4.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ikA7NTDs.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\M+qOpW2s.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\h5Cfu447.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\UEHC7yrf.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\WCaaxfid.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\VUdB65Xe.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\UmEN9TZg.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\L9KEhm6r.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+KIBSi4W.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rdEIiJAE.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\bC8mKe3j.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\tOePVnT+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\6+rVOYGC.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\BXzgyqRI.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\InrxPgV1.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\x53pPSCa.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\cav1AbT+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\qQv0qxeq.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rm4gLR6t.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\ovXt4BmR.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\KwEUpJmw.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\0GwO1mVT.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5sNKhrog.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\N3zpzG4m.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\TXjT21Ck.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\r8cz8NHE.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\bD1GGQuR.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\24zKWIgM.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\FUjCXum3.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\KIjaq1Zx.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\+6nSJoU8.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\s+dLNy4E.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Hsk0d5re.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\rENjLC0T.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\8pZQEyf1.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Vz+2A+9j.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\dIypK0l+.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\DI90W0We.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\4ym4GMJf.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\Smvvl16E.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5OfhcEkA.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\5jqeKQ+l.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\fsg8aHIn.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\SxyHwBBM.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\bB8N0n6s.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\P1cvxAqn.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\bxSgnpGn.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\4aEunyEQ.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\build-gz\GwT2+MFx.gz
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\staticwebassets\HRBlazorApp.StaticWebAssets.Manifest.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\staticwebassets\HRBlazorApp.StaticWebAssets.xml
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\scopedcss\bundle\HRBlazorApp.styles.css
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\scopedcss\projectbundle\HRBlazorApp.bundle.scp.css
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorTargetAssemblyInfo.cache
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\ref\HRBlazorApp.dll
+C:\Users\990224\Desktop\HR\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.pdb
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.StaticWebAssets.xml
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\ref\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\HRBlazorApp.pdb
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\HRBlazorApp.pdb
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Ahmadi\Test Hr\HRBlazorApp\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.3.js
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorComponent.input.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorComponent.output.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\RazorDeclaration\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.TagHelpers.input.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.TagHelpers.output.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorCoreGenerate.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\0pyMHGkf.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\SUxPcb42.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\9ZcfRmrJ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\b6jvaPm0.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\1UKkMrJb.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\pPs67eFq.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hFbiN5aM.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\NIEDKvNH.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\C4k6R0uF.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\RJYnVHEC.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\rifIAOCN.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\1i1cq7df.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+pVw0hwN.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\pC+y+dPA.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\YfbXjDZa.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\FMzNGwX+.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\t5+6wekU.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Nzibl+L4.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\yR6wuQ6S.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\K4Vtw09c.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\9zuVToa6.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8wYSd3HJ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\xXTLpQyW.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Elw4LIFE.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ctiWquLz.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\e24wXsQE.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\G4YNrfK4.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\MplPM11S.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\gE1p0OkA.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\DFzcfLqW.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\xAH23NFu.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+60aivmj.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Y34OETky.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\zhTISjiA.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Z+F51+02.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+qKcotcr.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\6gCN9Sqf.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\HYdXkOBj.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\bGNbfh12.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\5m292pMz.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\gZJbpSUZ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tFcr+tCC.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\sVVbZS79.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\kG7DEyCp.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\DzIYY4Tj.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\kagZCoZZ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\kwHdsHOd.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\5xD39Qik.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\FuRANs1e.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\3kI+u+tn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4gC2jCK+.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\jz7DK88j.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\0LVk3Ij8.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\cEpj46nG.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\71SepIqS.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\sZxW8by3.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+SIbJMaU.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\cN+Ar7kS.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\5sQj+Qmn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\bg+Dtp18.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\jW0lEYAh.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hPvUl0zd.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\fzhZIoBe.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\7uEUHDFK.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Ddli0+ny.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8PycDuhc.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\QXU3dsD3.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Ij6BUGfj.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\BDrtFZTP.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\FW0hutex.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\R6BnFVDD.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\GQ9ZfMFq.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\cVKxhstw.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\L0iVD7sL.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\jmtoSrif.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\SMH8qdni.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hoUobMCW.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ts5CwnB1.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Cmx2xH96.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\NvFsP+6A.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\K6ZCE1E6.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\GAsCDkrY.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\JOFTaGgr.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\vSJchI19.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\f1wCEXFV.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\UD+Dnucl.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\cvhiUqP+.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8Axgn+sI.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\F2ITzPgz.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tAOylg89.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\l8vdlp7b.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\I6Yo2f65.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\1vFXj7KX.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Btbb+Vd3.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8bQn+KBq.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\WbfPqo2q.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Ynbd2TxU.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\qhSELbDE.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\levLxF+B.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\NA6L8CN6.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\u7rS6Dxd.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\qubqtqYJ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\w6pDXpKG.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\UdKD0eCx.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ZulOWSv8.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4WyN7lGl.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\u8keLqz6.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4FQJxkoU.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\vsRfbpPC.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\QGUGLRZb.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\c5X2vxDv.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\O8m5Q6nW.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tb91PZEG.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\gsuyMOms.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\v5kLfaSe.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8J2+f95K.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\p9TAd+2g.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\xgmrRgjB.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\iTl7CG+H.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\6+PywyJ2.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hLIgR1sn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\UREBiqvr.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\6kRPvf9N.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\sxGwKNm1.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\JKspeg+W.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\cs5xiZLQ.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\JNWAoa0z.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ylWzMNzC.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4P2RDr8H.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\b9UdKJTh.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+VEfvx+F.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\mb2k9N4L.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\P8LkR+kl.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\Bz1T1NhV.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\mE+eKfen.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\mM32nD1L.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\3tSRvIMx.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\jFIoLWhS.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\VkLAY1HV.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\OakqaBk4.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\0gTgs4Vf.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4EXl32vo.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\WAM7WPfI.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\az6dNCHw.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\0mS8a2p5.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ifezyXL1.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\z2NaoZds.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\r6EmSAkY.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\XYTzFLhu.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\QFCj2USs.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\vzPVm6xV.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\qtcZ5tNo.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\dNW+38F7.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\N+eESSo6.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\aAWFJ8PD.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\h1pMYCnp.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\l4W4Cntn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\2QCUjCZp.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\wejtxcAf.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\a+zlhl28.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tCqLM4bE.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tJ005dk9.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\JS35BaOa.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\oLVybAEX.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\KI8aogsK.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\xWdgEtjT.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+Q7t3ImM.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hDPmvKq+.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\jQn6Ggsn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8uv0pFUH.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\BXHzkClG.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\3ADEj1kt.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\8Lpsrtrt.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\DQdI773e.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\gLs43Mip.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\r0r5jWsY.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\3rowQeyC.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\rPuyISaE.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ayf1V3yi.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\tZvmd9Kn.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\TjOnfBCI.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\hVVpwZg5.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\azclT5gY.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4tBG7Zas.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\qfbOiEh1.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\ZMQGJw8k.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\+htj31bm.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\AE6IC9YG.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\4Gk54Sfc.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\fWvgT6Ut.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\i9daovvA.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\1Prp90le.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\o6qmyeBm.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\k6S90Mzh.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\build-gz\VHEsHMeK.gz
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\staticwebassets\HRBlazorApp.StaticWebAssets.Manifest.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\staticwebassets\HRBlazorApp.StaticWebAssets.xml
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\scopedcss\bundle\HRBlazorApp.styles.css
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\scopedcss\projectbundle\HRBlazorApp.bundle.scp.css
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.RazorTargetAssemblyInfo.cache
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.csproj.CopyComplete
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\ref\HRBlazorApp.dll
+D:\Ahmadi\Test Hr\HRBlazorApp\obj\Debug\net5.0\HRBlazorApp.pdb

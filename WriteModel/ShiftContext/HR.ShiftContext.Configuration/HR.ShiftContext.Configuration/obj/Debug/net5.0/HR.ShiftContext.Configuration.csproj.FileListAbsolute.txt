@@ -1,0 +1,172 @@
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.deps.json
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CopyComplete
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Test_Projects\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.deps.json
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+E:\HR 99-09-17\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+C:\Users\990224\Desktop\HR\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.deps.json
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Configuration.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.DependencyInjection.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Facade.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.ApplicationService.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.Services.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Facade.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Infrastructure.Persistence.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Application.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.AssemblyHelper.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.Framework.Persistence.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\ref\HR.ShiftContext.Configuration.dll
+D:\Ahmadi\Test Hr\WriteModel\ShiftContext\HR.ShiftContext.Configuration\HR.ShiftContext.Configuration\obj\Debug\net5.0\HR.ShiftContext.Configuration.pdb

@@ -1,0 +1,85 @@
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.deps.json
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csprojAssemblyReference.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfoInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfo.cs
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CopyComplete
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.deps.json
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CopyComplete
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.deps.json
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csprojAssemblyReference.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CopyComplete
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.deps.json
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.EmployeeContext.ApplicationService.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csprojAssemblyReference.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.csproj.CopyComplete
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Facade.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Facade\HR.EmployeeContext.Facade.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Facade.Contracts.pdb

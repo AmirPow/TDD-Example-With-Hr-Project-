@@ -1,0 +1,76 @@
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.deps.json
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csprojAssemblyReference.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfo.cs
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Domain.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Domain.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+C:\Users\990224\source\repos\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.deps.json
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Core.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Domain.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Domain.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Resources.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Domain.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Core.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.Framework.Domain.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.ShiftContext.Resources.pdb
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csprojAssemblyReference.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfoInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfo.cs
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CoreCompileInputs.cache
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CopyComplete
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+E:\HR 99-09-17\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.deps.json
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csprojAssemblyReference.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfo.cs
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+D:\Test_Projects\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.deps.json
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfoInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfo.cs
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+C:\Users\990224\Desktop\HR\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.deps.json
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\bin\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfoInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.AssemblyInfo.cs
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.csproj.CoreCompileInputs.cache
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\ref\HR.EmployeeContext.Domain.Contracts.dll
+D:\Ahmadi\Test Hr\WriteModel\EmployeeContext\Domain\HR.EmployeeContext.Contracts\obj\Debug\net5.0\HR.EmployeeContext.Domain.Contracts.pdb
